@@ -1,1 +1,2 @@
 # State-Wise-Road-Tax-Calculator-in-C
+This C program calculates vehicle road tax for 23 Indian states. The road tax is computed based on the vehicle cost, and the rates vary across different states. The program uses structure pointers to manage data and a switch-case control structure for tax calculation logic. It demonstrates clean and simple C programming concepts, such as structured data, pointer access, and modular design.
